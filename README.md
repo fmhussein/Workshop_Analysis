@@ -1,5 +1,7 @@
 # Workshop Analysis
 
+[Workshop Registrant Analysis App](https://fmh7pv.shinyapps.io/registrant_analysis/)
+
 # 📊 Workshop Analysis
 
 An interactive R project for analyzing university workshop registrations, attendance trends, and thematic categories. This project integrates registration records, workshop metadata, and topic mappings to produce insights for planning and engagement tracking — enhanced through a Shiny dashboard.
